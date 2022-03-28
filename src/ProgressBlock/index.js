@@ -7,7 +7,7 @@ export default (config) => {
     id: 'progress_block',
     title: 'Progress block',
     icon: worldSVG,
-    group: 'text',
+    group: 'common',
     view: ProgressBlockView,
     edit: ProgressBlockEdit,
     restricted: false,
