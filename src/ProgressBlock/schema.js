@@ -4,7 +4,15 @@ const progressSchema = {
     {
       id: 'default',
       title: 'Default',
-      fields: ['progress', 'value', 'total', 'children', 'color'],
+      fields: [
+        'progress',
+        'indicating',
+        'state',
+        'value',
+        'total',
+        'children',
+        'color',
+      ],
     },
   ],
   properties: {
@@ -12,6 +20,21 @@ const progressSchema = {
       title: 'Show progress',
       type: 'boolean',
     },
+    indicating: {
+      title:
+        'An indicating progress bar visually indicates the current level of progress of a task',
+      type: 'boolean',
+    },
+    state: {
+      title: 'State',
+      description: 'A progress bar can show a specific state',
+      choices: [
+        ['success', 'Success'],
+        ['warning', 'Warning'],
+        ['error', 'Error'],
+      ],
+    },
+
     value: {
       title: 'Value',
       type: 'number',

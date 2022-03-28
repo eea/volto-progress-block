@@ -43,6 +43,10 @@ const View = ({ data, mode }) => {
                 value={item.value}
                 total={item.total || 100}
                 progress={item.progress}
+                indicating={item.indicating}
+                success={item.state === 'success'}
+                warning={item.state === 'warning'}
+                error={item.state === 'error'}
                 color={item.color || 'blue'}
               >
                 {item.children}
