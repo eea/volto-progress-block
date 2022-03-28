@@ -7,12 +7,6 @@ const progressSchema = {
       fields: ['progress', 'value', 'total', 'children', 'color'],
     },
   ],
-
-  // value: 80,
-  // total: 100,
-  // progress: true,
-  // children: 'Label',
-  // color: 'green',
   properties: {
     progress: {
       title: 'Show progress',
