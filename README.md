@@ -15,11 +15,11 @@
 [![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-develop)
 
 
-[Volto](https://github.com/plone/volto) add-on
+[Volto](https://github.com/plone/volto) add-on: [Progress Bar](https://eea.github.io/volto-kitkat-frontend/?path=/story/components-progress--progress-with-value)
 
 ## Features
 
-Demo GIF
+![Progress Block](https://github.com/eea/volto-progress-block/raw/develop/docs/progress-block.png)
 
 ## Getting started
 
