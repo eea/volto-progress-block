@@ -34,6 +34,7 @@ const View = ({ data, mode }) => {
     <React.Fragment>
       <Grid columns={1}>
         {items.map((item, index) => {
+          if (!item.value) return '';
           return (
             <Grid.Column
               key={`progress-item-${index}-${item.children}`}
