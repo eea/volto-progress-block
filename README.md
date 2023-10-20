@@ -19,7 +19,7 @@
 
 ## Features
 
-![Progress Block](https://github.com/eea/volto-progress-block/raw/master/docs/progress-block.png)
+![Progress Block](https://raw.githubusercontent.com/eea/volto-progress-block/master/docs/progress-block.png)
 
 ## Getting started
 
