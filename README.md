@@ -19,7 +19,7 @@
 
 ## Features
 
-![Progress Block](https://github.com/eea/volto-progress-block/raw/develop/docs/progress-block.png)
+![Progress Block](https://raw.githubusercontent.com/eea/volto-progress-block/master/docs/progress-block.png)
 
 ## Getting started
 
@@ -48,6 +48,10 @@
 ### Add volto-progress-block to your Volto project
 
 1. Make sure you have a [Plone backend](https://plone.org/download) up-and-running at http://localhost:8080/Plone
+
+   ```Bash
+   docker compose up backend
+   ```
 
 1. Start Volto frontend
 
