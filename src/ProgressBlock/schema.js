@@ -76,8 +76,7 @@ const progressSchema = {
   required: [],
 };
 
-// eslint-disable-next-line import/no-anonymous-default-export
-export default {
+const schema = {
   title: 'Progress block',
 
   fieldsets: [
@@ -109,3 +108,5 @@ export default {
 
   required: [],
 };
+
+export default schema;
