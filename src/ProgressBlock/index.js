@@ -2,7 +2,7 @@ import worldSVG from '@plone/volto/icons/world.svg';
 import ProgressBlockEdit from './Edit';
 import ProgressBlockView from './View';
 
-export default (config) => {
+const applyConfig = (config) => {
   config.blocks.blocksConfig.progress_block = {
     id: 'progress_block',
     title: 'Progress block',
@@ -20,3 +20,5 @@ export default (config) => {
   };
   return config;
 };
+
+export default applyConfig;
