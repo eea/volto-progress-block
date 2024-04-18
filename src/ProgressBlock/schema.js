@@ -76,7 +76,7 @@ const progressSchema = {
   required: [],
 };
 
-export default {
+const schema = {
   title: 'Progress block',
 
   fieldsets: [
@@ -108,3 +108,5 @@ export default {
 
   required: [],
 };
+
+export default schema;
