@@ -3,16 +3,16 @@
 [![Releases](https://img.shields.io/github/v/release/eea/volto-progress-block)](https://github.com/eea/volto-progress-block/releases)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-progress-block%2Fmaster&subject=master)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-progress-block/job/master/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-master&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-master)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-master&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-master)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-master&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-master)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-master&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-master)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-progress-block%2Fdevelop&subject=develop)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-progress-block/job/develop/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-develop)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-develop)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-develop)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block-develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block-develop)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&branch=develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block&branch=develop)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&branch=develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block&branch=develop)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&branch=develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block&branch=develop)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-progress-block&branch=develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-progress-block&branch=develop)
 
 
 [Volto](https://github.com/plone/volto) add-on: [Progress Bar](https://eea.github.io/volto-kitkat-frontend/?path=/story/components-progress--progress-with-value)
